@@ -275,7 +275,7 @@ body::before {
   padding: 72px 20px;
   box-sizing: border-box;
   position: relative;
-  background-image: url('image/NU.jpg');
+  background-image: url('NU.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -882,6 +882,7 @@ footer p {
     .contact-form { grid-template-columns: 1fr; }
     .contact-form button { justify-self: stretch; }
 }
+
 
 
     
